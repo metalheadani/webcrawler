@@ -5,7 +5,7 @@ from domain import *
 from general import *
 
 PROJECT_NAME = 'metalhead'
-HOMEPAGE = 'https://www.thenewboston.com/'
+HOMEPAGE = 'http://anirudhajain.tech/'
 DOMAIN_NAME = get_domain_name(HOMEPAGE)
 QUEUE_FILE = PROJECT_NAME + /'queue.txt'
 CRAWLED_FILE = PROJECT_NAME + /'crawled.txt'
